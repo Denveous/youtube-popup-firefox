@@ -1,13 +1,11 @@
- what this extension does is open the video in a popup window using /embed
+# YouTube Embed Redirector
 
- what you need to do to install this is:
+This extension opens YouTube videos in popup windows using the `/embed` URL format.
 
-1- create a new folder on you pc, download the files, place them in the folder.
+## Installation
 
-2- go to chrome://extensions (or click on the 3 dots menu top right, extensions - manage extensions)
+Download the latest release: [youtube-embed-1.0.xpi](https://github.com/Denveous/youtube-popup-firefox/releases/tag/firefox/youtube-embed-1.0.xpi)
 
-3- enable developer mode
+---
 
-4- click on "load unpacked" and chose the folder.
-
-5- reload youtube.
+*Click any YouTube video and it opens in a clean embed popup window.*
