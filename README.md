@@ -4,7 +4,7 @@ This extension opens YouTube videos in popup windows using the `/embed` URL form
 
 ## Installation
 
-Download the latest release: [youtube-embed-1.0.xpi](https://github.com/Denveous/youtube-popup-firefox/releases/download/firefox/youtube-embed-1.1.xpi)
+Download the latest release: [youtube-embed-1.1.xpi](https://github.com/Denveous/youtube-popup-firefox/releases/download/firefox/youtube-embed-1.1.xpi)
 
 ---
 
