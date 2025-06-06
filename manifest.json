@@ -5,14 +5,8 @@
   "version": "1.0",
   "description": "Redirects YouTube watch URLs to their embed versions",
   "permissions": [
-    "webNavigation",
-    "tabs",
     "*://*.youtube.com/*"
   ],
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  },
   "content_scripts": [
     {
       "matches": ["*://*.youtube.com/*"],
